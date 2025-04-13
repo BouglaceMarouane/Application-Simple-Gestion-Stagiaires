@@ -27,7 +27,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ## ***🛠️ Technologies Utilisées :***
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3-blue?logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
 
 ## ***⚙️ étapes d'installation :***
 
