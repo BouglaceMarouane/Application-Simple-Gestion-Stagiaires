@@ -1,0 +1,25 @@
+h2{
+    font-size: 30px !important;
+}
+
+.trainee-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.gold { background-color: gold; }
+.green { background-color: #00C853; color: black; }
+.rank {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: white;
+    font-weight: bold;
+}
