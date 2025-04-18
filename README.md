@@ -20,7 +20,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/add_stg.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/add_stg.png" alt="image alt"/>
   <br>
   <em>When a trainee is added, their name and grades are processed, and the trainee list is updated dynamically with their ranking.</em>
 </p><br>
