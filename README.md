@@ -14,7 +14,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 ## ***📷 Screenshots :***
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/hoem_page.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/hoem_page.png" alt="image alt" />
   <br>
   <em>This is the home page where users can add trainees by filling out the form with their name and grades.</em>
 </p><br>
