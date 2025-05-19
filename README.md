@@ -24,7 +24,6 @@
 
 
 
-
 ## ***✨ Project Description :***
 This project is a simple web application developed using **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to manage trainees in a class. It allows users to add trainees with their grades, calculate their average, and display a dynamic ranking based on their performance while maintaining the order of addition.
 
